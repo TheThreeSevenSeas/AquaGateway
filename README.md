@@ -1,2 +1,0 @@
-# AquaGateway
-## by ThreeSevenSeas
